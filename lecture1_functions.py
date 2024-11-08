@@ -3,4 +3,5 @@ def square(x):
 
 print(square(24))
 
-name = [""]
+
+
