@@ -76,9 +76,3 @@
 #     print("Nice work!")
 # else:
 #     print("Result is between 100 and 150.")
-
-def square(x):
-    return x * x
-
-print()
-
